@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_shared_profound_tranquilities",
+  "info": {
+    "displayName": "Profound Tranquility",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "sectiontitle": {
+      "type": "string"
+    },
+    "sectioncontent": {
+      "type": "richtext"
+    },
+    "sharedimage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

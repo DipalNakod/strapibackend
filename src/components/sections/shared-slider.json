@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_shared_sliders",
+  "info": {
+    "displayName": "Shared.slider",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "slider": {
+      "displayName": "slider",
+      "type": "component",
+      "repeatable": true,
+      "component": "sections.slider"
+    }
+  }
+}

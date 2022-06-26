@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "slidebanners",
+  "info": {
+    "singularName": "slidebanner",
+    "pluralName": "slidebanners",
+    "displayName": "Slidebanner",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sliderImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
